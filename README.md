@@ -4,7 +4,7 @@ Color scheme switcher developed on Javascript, HTML and CSS
 
 #visit 
 
-<a href="https://sakshithakar22.github.io/image-search-app" 
+<a href="https://64be5648f5eb74008fa5570c--prismatic-cendol-06675d.netlify.app/" 
     target="_blank">
-     Visit the Image Search app
+     Color Scheme Switcher
 </a>
